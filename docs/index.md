@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "季诚AI编程"
+  name: "贝塔AI编程"
   text: "AI编程，人人可学"
   tagline: AI技术大爆发的时代，不懂代码才可以学会使用AI编程，创造属于你自己的个人提效工具。
 

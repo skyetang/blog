@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "季诚AI",
+  title: "贝塔AI编程",
   description: "AI编程，AI智能体，软件定制开发，AI行业新闻分享",
   lang: 'zh-CN',
   
