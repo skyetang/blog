@@ -4,7 +4,6 @@ export default defineConfig({
   title: "我的博客",
   description: "一个使用 VitePress 构建的博客",
   lang: 'zh-CN',
-  base: '/blog/',  // 如果使用自定义域名 skye.space，删除这行
   
   themeConfig: {
     nav: [
