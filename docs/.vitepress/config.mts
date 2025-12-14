@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "我的博客",
-  description: "一个使用 VitePress 构建的博客",
+  title: "季诚AI",
+  description: "AI编程，AI智能体，软件定制开发，AI行业新闻分享",
   lang: 'zh-CN',
   
   themeConfig: {
@@ -35,12 +35,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username' }
+      { icon: 'github', link: 'https://github.com/skyetang' }
     ],
 
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present'
+      message: '',
+      copyright: 'Copyright © 2025 | <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2025165814号-1</a>'
     },
 
     search: {

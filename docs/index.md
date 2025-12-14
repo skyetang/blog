@@ -2,22 +2,31 @@
 layout: home
 
 hero:
-  name: "我的博客"
-  text: "记录技术与生活"
-  tagline: 使用 VitePress 构建
+  name: "季诚AI"
+  text: "AI 赋能 · 智慧开发"
+  tagline: AI编程 | AI智能体 | 软件定制开发 | 行业资讯
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 📚 阅读文章
       link: /posts/
     - theme: alt
-      text: 关于我
+      text: 👋 关于我们
       link: /about
+    - theme: alt
+      text: GitHub
+      link: https://github.com/skyetang
 
 features:
-  - title: 技术分享
-    details: 分享前端、后端等技术文章
-  - title: 学习笔记
-    details: 记录学习过程中的心得体会
-  - title: 工具推荐
-    details: 推荐好用的开发工具和资源
+  - icon: 🤖
+    title: AI 编程
+    details: 探索 AI 辅助编程的最新技术与实践，提升开发效率
+  - icon: 🧠
+    title: AI 智能体
+    details: 深入研究 AI Agent 技术，打造智能化解决方案
+  - icon: 💼
+    title: 软件定制
+    details: 专业软件定制开发服务，满足个性化业务需求
+  - icon: 📰
+    title: 行业资讯
+    details: 追踪 AI 领域最新动态，分享前沿技术趋势
 ---
