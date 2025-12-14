@@ -2,31 +2,30 @@
 layout: home
 
 hero:
-  name: "季诚AI"
-  text: "AI 赋能 · 智慧开发"
-  tagline: AI编程 | AI智能体 | 软件定制开发 | 行业资讯
+  name: "季诚AI编程"
+  text: "AI编程，人人可学"
+  tagline: AI技术大爆发的时代，不懂代码才可以学会使用AI编程，创造属于你自己的个人提效工具。
+
   actions:
     - theme: brand
-      text: 📚 阅读文章
+      text: 开始学习 →
       link: /posts/
-    - theme: alt
-      text: 👋 关于我们
-      link: /about
-    - theme: alt
-      text: GitHub
-      link: https://github.com/skyetang
 
 features:
-  - icon: 🤖
-    title: AI 编程
-    details: 探索 AI 辅助编程的最新技术与实践，提升开发效率
-  - icon: 🧠
-    title: AI 智能体
-    details: 深入研究 AI Agent 技术，打造智能化解决方案
-  - icon: 💼
-    title: 软件定制
-    details: 专业软件定制开发服务，满足个性化业务需求
-  - icon: 📰
-    title: 行业资讯
-    details: 追踪 AI 领域最新动态，分享前沿技术趋势
+  - icon:
+      src: /icons/sparkles.svg
+    title: AI 时代已来
+    details: 大语言模型正在重塑软件开发的方式，编程的门槛正在快速消失。无论你是否有技术背景，现在都是学习AI编程的最佳时机。
+  - icon:
+      src: /icons/code.svg
+    title: 人人可编程
+    details: 学会使用AI日益强大的能力，不用懂代码，也能学编程，做出自己的实用软件。
+  - icon:
+      src: /icons/rocket.svg
+    title: 10倍效率提升
+    details: 从一个想法到可运行的产品，开发周期从数周缩短到数天甚至数小时。
+  - icon:
+      src: /icons/tool.svg
+    title: 打造个人工具
+    details: 不再依赖通用软件的妥协，创建完全贴合你工作流程的专属工具，解决那些只有你才懂的独特问题。
 ---

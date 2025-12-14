@@ -4,9 +4,5 @@
 
 ## 简介
 
-这里写一些关于你自己的介绍。
+经历挺丰富，赶上过风口，也踩过不少坑。有些经历，如果只是回忆存在脑海中，将一文不值；如果能分享出来，让走过的弯路照亮后来人的方向，或许，也是有些价值的。
 
-## 联系方式
-
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com

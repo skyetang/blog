@@ -5,11 +5,14 @@ export default defineConfig({
   description: "AI编程，AI智能体，软件定制开发，AI行业新闻分享",
   lang: 'zh-CN',
   
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
+  
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/' },
-      { text: '分类', link: '/categories/' },
       { text: '关于', link: '/about' }
     ],
 
@@ -18,34 +21,25 @@ export default defineConfig({
         {
           text: '技术文章',
           items: [
-            { text: '示例文章', link: '/posts/example' }
+            { text: '为什么你应该学会使用 AI 编程', link: '/posts/example' }
           ]
         }
       ],
-      '/categories/': [
-        {
-          text: '分类',
-          items: [
-            { text: '前端', link: '/categories/frontend' },
-            { text: '后端', link: '/categories/backend' },
-            { text: '工具', link: '/categories/tools' }
-          ]
-        }
-      ]
+
     },
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/skyetang' }
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/skyetang' }
+    // ],
 
     footer: {
       message: '',
       copyright: 'Copyright © 2025 | <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2025165814号-1</a>'
     },
 
-    search: {
-      provider: 'local'
-    },
+    // search: {
+    //   provider: 'local'
+    // },
 
     outline: {
       label: '页面导航',
